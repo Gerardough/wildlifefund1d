@@ -510,7 +510,7 @@ button a{
 }
 .list h4{
     font-size: 21px;
-    color: var(--bg-color);
+    color: #4d4d4d;
     margin-bottom: 30px;
     position: relative;
 }
